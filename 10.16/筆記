@@ -1,29 +1,14 @@
 ```
-![協定protocol](protocol.jpg)
+![DSC_0279](DSC_0279.JPG)
 ```
 ```
-![協定protocol](protocol.jpg)
+![DSC_0280](DSC_0280.JPG)
 ```
 ```
-![協定protocol](protocol.jpg)
+![DSC_0281](DSC_0281.JPG)
 ```
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+```
 1	實體層 =    physical layer
 2	資料連結層 data link layer
 3	網路層 =    network layer
@@ -31,8 +16,7 @@
 5	會議層 =   session layer
 6	表現層 =    presentation layer
 7	應用層 =    application layer
-
-
+```
 4	應用層
 application layer	例如HTTP、FTP、DNS（如BGP和RIP這樣的路由協定，儘管由於各種各樣的原因它們分別執行在TCP和UDP上，仍然可以將它們看作網路層的一部分）
 3	傳輸層
